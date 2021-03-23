@@ -3,7 +3,7 @@
  *
  *  Created on: 2021. 3. 22.
  *      Author: Yaan
-
+*/
 
 
 #include <stdio.h>
@@ -30,4 +30,4 @@ int main()
 	printf("address of list[4] \t= %p\n",&list[4]);
 
 }
-*/
+
